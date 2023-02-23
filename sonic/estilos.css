@@ -1,0 +1,15 @@
+#seguimiento {
+    background-image: url(img/fondo.jpg);
+    height: 200px;
+    width: 1520px;
+    position: relative;
+}
+
+.erizo {
+    position: absolute;
+    top: 55px;
+    left: 0;
+    height: 100px;
+    width: 100px;
+    align-items: center;
+}
